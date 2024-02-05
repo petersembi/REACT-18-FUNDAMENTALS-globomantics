@@ -1,0 +1,13 @@
+.themeFontColor {
+    color: coral;
+}
+
+tr {
+    cursor: pointer;
+}
+
+.houseDescr {
+    line-height: 2rem;
+    font-size: 18px;
+    
+}
